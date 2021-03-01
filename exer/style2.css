@@ -1,0 +1,13 @@
+.section1{
+    background-image: url("../portfolio/por1.jpg");
+    height: 200px;
+
+
+}
+.nav ul{
+    display: flex;
+}
+.nav ul li {
+    color: silver;
+    list-style: none;
+}
